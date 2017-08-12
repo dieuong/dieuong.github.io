@@ -1,0 +1,13 @@
+em {
+    font-weight : bold;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+body {
+    background-color: #ebeef4;
+
+h1 {
+    text-align: center;
+}
+
